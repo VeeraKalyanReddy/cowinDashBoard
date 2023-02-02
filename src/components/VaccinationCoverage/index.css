@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.bar-cont {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.all-heads {
+  color: #cbd5e1;
+  font-size: 22px;
+}

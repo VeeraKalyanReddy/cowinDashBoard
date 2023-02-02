@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.age-pie {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
